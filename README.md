@@ -1,1 +1,2 @@
 # fullstackTrindadeLab365-M01S05-exerc03
+Terceiro exercício da semana 05 do curso de Fullstack da turma Trindade onde Utilizando a lista: ['Pedro', ‘José', ‘Aderbal', ‘Danilo', 'Luisa', 'Vitoria'] é adicionado um ou mais nomes na lista, porém não é possível receber um nome igual.

@@ -1,0 +1,12 @@
+{
+  "name": "fullstacktrindadelab365-m01s05-exerc03",
+  "version": "1.0.0",
+  "description": "Terceiro exercício da semana 05 do curso de Fullstack da turma Trindade onde Utilizando a lista: ['Pedro', ‘José', ‘Aderbal', ‘Danilo', 'Luisa', 'Vitoria'] é adicionado um ou mais nomes na lista, porém não é possível receber um nome igual.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ana Paula",
+  "license": "ISC"
+}
